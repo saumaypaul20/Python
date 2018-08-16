@@ -1,7 +1,7 @@
 '''
 Done By:-
             SAUMAY PAUL         CSE 50-14
-            SHAHRUKH RAHMAN     CSE 52-14
+             DUIET, Dibrugarh University
 '''
 
 from nltk.stem import PorterStemmer,LancasterStemmer,RegexpStemmer, WordNetLemmatizer
